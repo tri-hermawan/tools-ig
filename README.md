@@ -1,16 +1,16 @@
 # tools-ig
 
-1. FFT: Follow Followers Target
+FFT: Follow Followers Target
 
-2. FAH: Follow Account by Hastag
+FAH: Follow Account by Hastag
 
-3. FLM: Follow by Like Media
+FLM: Follow by Like Media
 
-4. FLA: Follow Account in Location
+FLA: Follow Account in Location
 
-5. Unfollow All Following
+Unfollow All Following
 
-6. Unfollow Not Follow Back
+Unfollow Not Follow Back
 
 
 How To Install on Termux
